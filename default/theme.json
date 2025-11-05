@@ -1,27 +1,31 @@
 {
   "name" : "Default theme",
+  "description" : "Description",
   "elements" : [ {
-    "tag" : "Element",
-    "shape" : "RoundedBox"
+    "tag" : "Boundary:Container",
+    "color" : "#438dd5"
   }, {
-    "tag" : "Software System",
-    "background" : "#1168bd",
+    "tag" : "Boundary:SoftwareSystem",
+    "color" : "#1168bd"
+  }, {
+    "tag" : "Component",
+    "background" : "#85bbf0",
     "color" : "#ffffff"
   }, {
     "tag" : "Container",
     "background" : "#438dd5",
     "color" : "#ffffff"
   }, {
-    "tag" : "Component",
-    "background" : "#85bbf0",
-    "color" : "#000000"
+    "tag" : "Element",
+    "shape" : "RoundedBox"
   }, {
     "tag" : "Person",
     "background" : "#08427b",
     "color" : "#ffffff",
     "shape" : "Person"
   }, {
-    "tag" : "Infrastructure Node",
-    "background" : "#ffffff"
+    "tag" : "Software System",
+    "background" : "#1168bd",
+    "color" : "#ffffff"
   } ]
 }
