@@ -9,8 +9,8 @@
     "icon" : "SAP (Default).png"
   }, {
     "tag" : "SAP L1",
+    "background" : "#EBF8FF",
     "color" : "#1D2D3E",
-    "stroke" : "#0070F2",    
-    "icon" : "34158-application-frontend-service_sd.png"
+    "stroke" : "#0070F2"
   } ]
 }
