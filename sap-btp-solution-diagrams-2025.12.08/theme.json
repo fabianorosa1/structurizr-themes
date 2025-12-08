@@ -27,12 +27,15 @@
     "tag" : "Software System",
     "background" : "#1168bd",
     "color" : "#ffffff"
-
   }, {
     "tag" : "SAP L0",
     "background" : "#EBF8FF",
-    "color" : "#CC00DC",
-    "stroke" : "#4d27aa",
+    "color" : "#1D2D3E",
+    "stroke" : "#0070F2",
     "icon" : "SAP (Default).png"    
+  }, {
+    "tag" : "SAP L1",
+    "color" : "#1D2D3E",
+    "stroke" : "#0070F2"      
   } ]
 }
