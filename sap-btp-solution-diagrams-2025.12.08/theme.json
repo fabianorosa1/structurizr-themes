@@ -73,6 +73,7 @@
     "icon" : "Ping Identity.png"
   }, {
     "tag" : "SAP IAS L1",
+    "background" : "#EBF8FF",
     "color" : "#1D2D3E",
     "stroke" : "#0070F2",
     "icon" : "32071-identity-authentication_sd.png"
