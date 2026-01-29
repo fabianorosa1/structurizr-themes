@@ -47,6 +47,30 @@
     "background" : "#EBF8FF",
     "color" : "#1D2D3E",
     "stroke" : "#475E75"
+  }, {
+    "tag" : "SAP CIS L0",
+    "background" : "#EBF8FF",
+    "color" : "#1D2D3E",
+    "stroke" : "#0070F2",
+    "icon" : "32129-sap-cloud-identity-services_sd.png"
+  }, {
+    "tag" : "SAP BTP CF L0",
+    "background" : "#EBF8FF",
+    "color" : "#1D2D3E",
+    "stroke" : "#0070F2",
+    "icon" : "10017-sap-btp_cloud-foundry-runtime_sd.png"
+  }, {
+    "tag" : "SAP BTP NEO L0",
+    "background" : "#EBF8FF",
+    "color" : "#1D2D3E",
+    "stroke" : "#0070F2",
+    "icon" : "10017-sap-btp_cloud-foundry-runtime_sd.png"
+  }, {
+    "tag" : "PING ID L0",
+    "background" : "#F5F6F7",
+    "color" : "#1D2D3E",
+    "stroke" : "#475E75",
+    "icon" : "Ping Identity.png"
   }
   ]
 }
