@@ -67,6 +67,36 @@
     "stroke" : "#0070F2",
     "icon" : "10017-sap-btp_cloud-foundry-runtime_sd.png"
   }, {
+    "tag" : "SAP DATSPH L0",
+    "background" : "#EBF8FF",
+    "color" : "#1D2D3E",
+    "stroke" : "#0070F2",
+    "icon" : "10025-sap-datasphere_sd.png"
+  }, {
+    "tag" : "SAP INTS L0",
+    "background" : "#EBF8FF",
+    "color" : "#1D2D3E",
+    "stroke" : "#0070F2",
+    "icon" : "32086-sap-integration-suite_sd.png"
+  }, {
+    "tag" : "SAP SAC L0",
+    "background" : "#EBF8FF",
+    "color" : "#1D2D3E",
+    "stroke" : "#0070F2",
+    "icon" : "20061-sap-analytics-cloud_sd.png"
+  }, {
+    "tag" : "SAP HANA L0",
+    "background" : "#EBF8FF",
+    "color" : "#1D2D3E",
+    "stroke" : "#0070F2",
+    "icon" : "20083-sap-hana-cloud_sd.png"
+  }, {
+    "tag" : "SAP S4HANA L0",
+    "background" : "#EBF8FF",
+    "color" : "#1D2D3E",
+    "stroke" : "#0070F2",
+    "icon" : "S4HANA.png"
+  }, {
     "tag" : "PING ID L0",
     "background" : "#F5F6F7",
     "color" : "#1D2D3E",
