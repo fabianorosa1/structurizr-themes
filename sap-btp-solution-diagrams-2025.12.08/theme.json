@@ -35,7 +35,7 @@
     "icon" : "SAP (Default).png"
   }, {
     "tag" : "SAP L1",
-    "background" : "#F5F6F7",
+    "background" : "#ffffff",
     "color" : "#1D2D3E",
     "stroke" : "#0070F2"
   }, {
